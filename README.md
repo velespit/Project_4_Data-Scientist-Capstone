@@ -2,7 +2,7 @@
 
 
 ### Medium Blog Post
-Here is the Medium blog post I have written regarding the project:
+Here is the Medium blog post I have written regarding the project: https://medium.com/@volkanaydogmusvg/sparkify-project-75d51a69df1f
 
 
 ### Project Motivation
@@ -39,7 +39,7 @@ Finally I used four different classification algorithms for churn model:
 ⦁ Gradient-Boosted Tree Classification
 ⦁ Linear SVC Classification
 
-The worst model (Linear SVC Classification) had an f1-score around 55 percent. But other three models have better performances and the highest performance is from logistic classification and random forest classification with an f1-score of around 76 percent.
+The worst model (Linear SVC Classification) had an f1-score around 55 percent. But other three models give us that have better performances and the highest performance is from random forest classification with 87 percent. Logistic Classification and Gradient-Boosted Classification is around 76 percent
 
 
 ### File Descriptions
